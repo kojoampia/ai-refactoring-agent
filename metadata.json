@@ -1,0 +1,6 @@
+{
+  "name": "SpringRefactor AI",
+  "description": "Professional agentic platform for refactoring legacy Spring Boot applications to modern Spring Boot 3+ standards and Spring AI architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Refactoring", "Java Analysis", "AI-Powered Code Generation"]
+}
